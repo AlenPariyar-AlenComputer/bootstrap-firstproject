@@ -1,0 +1,14 @@
+
+
+.btn-danger:hover,.btn-primary:hover,.btn-success:hover{
+    font-weight: bolder;
+}
+
+.dropdown-item:hover{
+    background-color: rgba(53, 53, 53, 0.359);
+    
+}
+
+.nav-link:hover{
+    background-color: rgba(208, 208, 208, 0.16);
+}
